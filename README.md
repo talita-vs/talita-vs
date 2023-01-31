@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou a Talita Vasconcellos</h1>
 <h3 align="center">Estudante em formação de Desenvolvimento Web Kenzie Academy</h3>
 
-- 🔭 Atualmente estou trabalhando em [Kenzie Flix](https://github.com/Kenzie-Academy-Brasil-Developers/m1-sprint_2-kenzieflix-talita-vs)
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
 
